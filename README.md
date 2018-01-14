@@ -1,0 +1,2 @@
+# claymore
+Dockerized claymore miner
